@@ -1,6 +1,6 @@
 # graphql-flask-postgres
 
-Simple CRUD app with Python Flask, SQLAlchemy, PostgreSQL, and GraphQL (Graphene)
+Simple GraphQL CRUD app with Python Flask, SQLAlchemy, PostgreSQL, and Graphene
 
 
 ## Data
